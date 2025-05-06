@@ -50,7 +50,7 @@ const Home = () => {
             align="center"
             gutterBottom
           >
-            大学生家教招聘平台
+            启思教育 | 大学生家教招聘平台
           </Typography>
           <Typography variant="h5" align="center" paragraph>
             连接优秀大学生与家长的桥梁，为您提供优质的家教服务
